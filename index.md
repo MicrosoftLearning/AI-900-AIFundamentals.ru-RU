@@ -1,17 +1,22 @@
 ---
-title: Инструкции в Интернете
+title: Инструкции, размещенные в Интернете
 permalink: index.html
 layout: home
+ms.openlocfilehash: b85af520a10e63a2f9a5696db03bfd946aff968f
+ms.sourcegitcommit: 1ef64e3008a439d0d0bb3d93a27d3df68d3d64a9
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "140688696"
 ---
+# <a name="azure-ai-fundamentals-exercises"></a>Упражнения по основам ИИ Azure
 
-# Упражнения по основам ИИ Azure
-
-В этом репозитории содержатся практические лабораторные занятия для курса [AI-900 *Microsoft Azure Artificial Intelligence*](https://docs.microsoft.com/ru-ru/learn/certifications/courses/ai-900t00) и соответствующие модули для самостоятельного изучения на ресурсе Microsoft Learn: [Начало работы с искусственным интеллектом в Azure](https://docs.microsoft.com/learn/paths/get-started-with-artificial-intelligence-on-azure/), [Создание прогнозных моделей без кода в машинном обучении Azure](https://docs.microsoft.com/ru-ru/learn/paths/create-no-code-predictive-models-azure-machine-learning/),  [Изучение компьютерного зрения в Microsoft Azure](https://docs.microsoft.com/learn/paths/explore-computer-vision-microsoft-azure/), [Изучение обработки естественного языка](https://docs.microsoft.com/learn/paths/explore-natural-language-processing/) и [Изучение ИИ для общения](https://docs.microsoft.com/learn/paths/explore-conversational-ai/). Упражнения прилагаются к обучающим материалам и позволяют практиковаться с использованием описанных в них технологий. 
+Используйте приведенные ниже ссылки для выполнения практических занятий по курсу [AI-900 *Microsoft Azure AI Fundamentals*](https://docs.microsoft.com/learn/certifications/courses/ai-900t00).
 
 Для выполнения этих упражнений вам понадобится подписка Microsoft Azure. Если ваш инструктор не предоставил вам такую подписку, можете зарегистрироваться для получения бесплатной пробной версии на сайте [https://azure.microsoft.com](https://azure.microsoft.com).
 
 {% assign labs = site.pages | where_exp:"page", "page.url contains '/instructions'" %}
 | Упражнения |
 | ------- | 
-{% for activity in labs  %}| [{{ activity.lab.title }}]({{ site.github.url }}{{ activity.url }}) |
+{% за активность на лабораторных работах  %}| [{{ activity.lab.title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}
