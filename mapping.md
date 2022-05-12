@@ -1,20 +1,28 @@
-# —опоставление лабораторных зан¤тий дл¤ преподавател¤ AI-900
+---
+ms.openlocfilehash: 69f8fd8920fccc0aecc4fb5d5a40e506935f8340
+ms.sourcegitcommit: 276908bd75615fb4d4712b912426129587e9c307
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "140788225"
+---
+# <a name="ai-900-trainer-lab-mapping"></a>Сопоставление лабораторных занятий для преподавателя AI-900
 
-Ётот курс, AI-900:  урс по основам »» имеет р¤д лабораторных зан¤тий, предназначенных дл¤ тренинга под руководством инструктора в течение 1 дн¤ зан¤тий.
+Этот курс, AI-900: Курс по основам ИИ имеет ряд заданий, предназначенных для тренинга под руководством инструктора в течение 1 дня занятий.
 
-Ћабораторные зан¤ти¤ дл¤ преподавател¤ AI-900 Ц это р¤д лабораторных зан¤тий AI-900 (01-11), которые вз¤ты из [репозитори¤ лабораторных зан¤тий AI-900](https://github.com/MicrosoftLearning/AI-900RU-Microsoft-Azure-AI-Fundamentals).
+Задания для преподавателя AI-900 — это ряд заданий AI-900, которые можно найти в Microsoft Learn.
 
-> ѕримечание. »нструкторы могут добавить дополнительные лабораторные зан¤ти¤ из всего набора лабораторных зан¤тий AI-900 (01-11) в свои модули, которые они преподают.
+> Примечание. Преподаватели могут добавить дополнительные задания из всего набора заданий AI-900 в свои модули, которые они преподают.
 
-## —опоставление модулей AI-900 с лабораторными зан¤ти¤ми
+## <a name="ai-900-module-mapping-to-labs"></a>Сопоставление модулей AI-900 с лабораторными занятиями
 
-–¤д лабораторных зан¤тий AI-900, используемые на этом курсе, сопоставлены с модул¤ми следующим образом: 
+Ряд лабораторных занятий AI-900, используемые на этом курсе, сопоставлены с модулями следующим образом: 
 
-| є лабораторного зан¤ти¤ AI-900 | –аздел | ‘айл Markdown |
+| № лабораторного занятия AI-900 | Раздел | Инструкции |
 | --- | --- | --- |
-| 01: AI-900 модуль 01 | Ќачало работы с искусственным интеллектом в Azure | [00 - Get started with AI on Azure.md](https://github.com/MicrosoftLearning/AI-900RU-Microsoft-Azure-AI-Fundamentals/blob/master/Instructions/00%20-%20Get%20started%20with%20AI%20on%20Azure.md) |
-| 02: AI-900 модуль 02 | »спользование автоматизированного машинного обучени¤ в службе ћашинного обучени¤ Azure | [00a-automated-machine-learning.md](https://github.com/MicrosoftLearning/AI-900RU-Microsoft-Azure-AI-Fundamentals/blob/master/Instructions/00a-automated-machine-learning.md) |
-| 03: AI-900 модуль 03 |  лассификаци¤ изображений  | [02-lab-Instructions.md](https://github.com/MicrosoftLearning/AI-900RU-Microsoft-Azure-AI-Fundamentals/blob/master/Instructions/02-lab-Instructions.md) |
-| 04: AI-900 модуль 04 | –аспознавание речи | [10-lab-Instructions.md](https://github.com/MicrosoftLearning/AI-900RU-Microsoft-Azure-AI-Fundamentals/blob/master/Instructions/10-lab-Instructions.md) |
-| 05: AI-900 модуль 05 | Ѕот QnA | [11-lab-Instructions.md](https://github.com/MicrosoftLearning/AI-900RU-Microsoft-Azure-AI-Fundamentals/blob/master/Instructions/11-lab-Instructions.md) |
+| 01: AI-900 модуль 01 | Изучение Cognitive Services | [01-Lab-Instructions](https://aka.ms/ai900-module-01) |
+| 02: AI-900 модуль 02 | Изучение автоматизированного машинного обучения | [02-Lab-Instructions](https://aka.ms/ai900-module-02) |
+| 03: AI-900 модуль 03 | Анализ изображений с помощью компьютерного зрения  | [03-Lab-Instructions](https://aka.ms/ai900-module-03) |
+| 04: AI-900 модуль 04 | Анализ текста с помощью языковой службы | [04-Lab-Instructions](https://aka.ms/ai900-module-04) |
+
 
