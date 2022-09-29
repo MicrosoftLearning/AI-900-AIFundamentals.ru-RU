@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 69f8fd8920fccc0aecc4fb5d5a40e506935f8340
+ms.sourcegitcommit: 276908bd75615fb4d4712b912426129587e9c307
+ms.translationtype: HT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "140788225"
+---
 # <a name="ai-900-trainer-lab-mapping"></a>Сопоставление лабораторных занятий для преподавателя AI-900
 
 Этот курс, AI-900: Курс по основам ИИ имеет ряд заданий, предназначенных для тренинга под руководством инструктора в течение 1 дня занятий.
