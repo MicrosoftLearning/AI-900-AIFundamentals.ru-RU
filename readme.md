@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 4e00e832d02871de3fa4511273434b6e8db58df3
-ms.sourcegitcommit: 71edd7d093464547be5a87725ef67dad082aafbf
-ms.translationtype: HT
-ms.contentlocale: ru-RU
-ms.lasthandoff: 08/23/2022
-ms.locfileid: "147629854"
----
 # <a name="ai-900-microsoft-azure-ai-fundamentals"></a>AI-900: Microsoft Azure AI Fundamentals (Основы ИИ Azure)
 
 В этом репозитории содержатся практические занятия для курса [AI-900 *Microsoft Azure AI Fundamentals*](https://docs.microsoft.com/en-us/learn/certifications/courses/ai-900t00) и [модули для обучения в произвольном темпе на ресурсе Microsoft Learn](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals). Задания предоставляются вместе с учебными материалами и позволяют выработать практические навыки использования технологий, описанных в них. 
