@@ -4,7 +4,7 @@ permalink: index.html
 layout: home
 ---
 
-# <a name="azure-ai-fundamentals-exercises"></a>Упражнения по основам ИИ Azure
+# Упражнения по основам ИИ Azure
 
 Эти практические упражнения предназначены для поддержки обучающих материалов в [Microsoft Learn](https://docs.microsoft.com/training/).
 
@@ -13,5 +13,5 @@ layout: home
 {% assign labs = site.pages | where_exp:"page", "page.url contains '/instructions'" %}
 | Упражнения |
 | ------- | 
-{% за активность на лабораторных работах  %}| [{{ activity.lab.title }}]({{ site.github.url }}{{ activity.url }}) |
+{% for activity in labs  %}| [{{ activity.lab.title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}
